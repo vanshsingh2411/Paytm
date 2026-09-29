@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build output
+distance/
+dist/
+*.tsbuildinfo
+
+# Secrets
+.env
+
+# Misc
+.DS_Store
+*.log
